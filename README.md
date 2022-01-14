@@ -1,4 +1,8 @@
 # Weather-Dashboard
+## Demo
+![Screenshot (791)](https://user-images.githubusercontent.com/75971776/149555530-ed13431e-8ff7-448c-b17d-2622ddbeb109.png)
+![Screenshot (790)](https://user-images.githubusercontent.com/75971776/149555560-3c9b292a-ce3c-4720-a046-520141d1eaa1.png)
+
 ## Description
 Weather-Dashboard is an application to find a weather condition of a given city both the current and 5-Days forecast at the same time.
 The server-side API used to get response data object is retrieved from the Open Weather APi.
